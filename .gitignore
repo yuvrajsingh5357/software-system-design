@@ -1,0 +1,32 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Java & Build files
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+.gradle/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
